@@ -1,0 +1,39 @@
+.socials {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 20px; /* Adjust as needed */
+    margin-top: 1rem;
+  }
+  
+  /* Style for individual social links */
+  .socials div {
+    margin: 0 10px; /* Adjust spacing between social links */
+    display: flex; /* Flex container for icons and anchors */
+    align-items: center; /* Vertical alignment of content */
+  }
+  
+  /* Additional styling for social links */
+  .socials a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 25px;
+    /* Transition for smooth hover effect */
+    transition: text-decoration 0.3s ease;
+    margin-left: -20px; /* Adjust spacing between icon and text */
+    line-height: 8;
+  }
+  
+  /* Underline on hover */
+  .socials a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Style for icons if necessary */
+  .socials svg {
+    height: 25px; /* Adjust icon size as needed */
+    width: 25px; /* Adjust icon size as needed */
+  }
+  
+  
