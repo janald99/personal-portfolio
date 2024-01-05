@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2a07a8e5.css",
+    "main.js": "/static/js/main.2a52a7bb.js",
+    "static/media/background.jpg": "/static/media/background.6a92d6870a409a0101b7.jpg",
+    "static/media/paragliding.jpg": "/static/media/paragliding.46e2876a4f471de1e029.jpg",
+    "static/media/bungee.jpg": "/static/media/bungee.aeb47c0429cbad16f787.jpg",
+    "static/media/koro.jpg": "/static/media/koro.91fc15d34190ec0a533a.jpg",
+    "static/media/capstone.jpg": "/static/media/capstone.e374e19c7bc3baba97de.jpg",
+    "static/media/agentsee.jpg": "/static/media/agentsee.aa3b2259723273d8953e.jpg",
+    "index.html": "/index.html",
+    "main.2a07a8e5.css.map": "/static/css/main.2a07a8e5.css.map",
+    "main.2a52a7bb.js.map": "/static/js/main.2a52a7bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a07a8e5.css",
+    "static/js/main.2a52a7bb.js"
+  ]
+}
